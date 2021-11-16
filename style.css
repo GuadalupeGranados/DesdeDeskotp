@@ -1,0 +1,25 @@
+div{
+   width: 120px;
+   height: 120px;
+   display: block;
+   background: aqua;
+}
+.caja1{
+ background-color: brown;
+}
+.caja2{
+   background-color: yellowgreen;
+   
+  }
+  .caja3{
+   background-color: rebeccapurple;
+  
+  }
+  .caja4{
+   background-color: magenta;
+  }
+
+
+
+
+
